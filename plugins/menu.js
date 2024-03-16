@@ -138,8 +138,8 @@ contextInfo: {
 externalAdReply: {
 title: 'BOBIZA BOT ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/2829c7653514416d207e2.jpg',
-sourceUrl: 'https://instagram.com/noureddine_ouafy',
+thumbnailUrl: 'https://telegra.ph/file/33c17c484e0b12e716515.jpg',
+sourceUrl: 'غير موجود الأن',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
